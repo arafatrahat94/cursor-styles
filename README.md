@@ -151,7 +151,7 @@ If you are facing any problem, feel free to share [here](https://github.com/araf
 ## Changelog
 
 ```markdown
-### [1.0.2] - 2024-11-20
+### [1.0.3] - 2024-11-20
 
 - First Stable Release.
 

@@ -1,6 +1,6 @@
 {
   "name": "cursor-styles",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A very simple npm package for react,offering smooth,many customisable cursors.",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -49,9 +49,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arafatrahat94/ReactCoolCursors"
+    "url": "https://github.com/arafatrahat94/cursor-styles"
   },
-  "homepage": "https://github.com/arafatrahat94/ReactCoolCursors",
+  "homepage": "https://github.com/arafatrahat94/cursor-styles",
   "keywords": [
     "react cursor",
     "cursor",
