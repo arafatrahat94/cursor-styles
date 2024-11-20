@@ -1,0 +1,32 @@
+:root {
+  --cursor-size: 28px;
+}
+
+#waveCursor {
+  z-index: 1000;
+  position: fixed;
+  top: -10px;
+  /* bottom: -30px; */
+  left: calc(var(--cursor-size) * -0.5);
+  pointer-events: none;
+  filter: url(#goo);
+}
+
+.cursor-circle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: var(--cursor-size);
+  height: var(--cursor-size);
+  border-radius: 50%; /* Make it circular */
+  /* Background color */
+  transform-origin: center center;
+  pointer-events: none;
+  z-index: 1000;
+
+  position: fixed;
+}
+
+.goo {
+  display: none;
+}
